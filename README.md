@@ -31,9 +31,9 @@ ChatV1 (UUPSUpgradeable) ← LOGIC
 - Tạo file ChatProxy.sol
 - Compile contract ChatProxy.sol
 - Mở tab Deploy & Run Transactions
-- Mở![alt text](image.png)
-_logic: Dán địa chỉ Implementation (Chat.sol)
-_data: 0x (hoặc để trống nếu Remix cho phép)
+- Mở Dropdow ngay nút Deploy điền 
+- logic: Dán địa chỉ Implementation (Chat.sol)
+- data: 0x (hoặc để trống nếu Remix cho phép)
 - Nhấn transact
 
 
